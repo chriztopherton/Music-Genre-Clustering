@@ -7,3 +7,6 @@
 ## Part B: Methodology
 
 -  :fire: Submit a 2-page write-up summary what you have learned in class about the use of eigenvectors and eigenvalues for unsupervised learning.
+
+Chris T Babyyyyyyyy
+
