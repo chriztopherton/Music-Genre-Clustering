@@ -8,6 +8,8 @@
 
 -  :fire: Submit a 2-page write-up summary what you have learned in class about the use of eigenvectors and eigenvalues for unsupervised learning.
 
+https://docs.google.com/document/d/18OWMq6Arjc0C0iWAEcvrqW5NsTyR_X7VGg7NEQSXUEE/edit?usp=sharing
+
 A fundamental and core aspect of unsupervised learning, and machine learning in general, is linear algebra, the derivation behind many clustering algorithms. When the problem is concerned with the idea of dimensions and linear transformations, matrices and vectors come into play. Transforming a matrix involves the principal direction in which it is “stretched”, defined by an eigenvector and the factor or quantity of the scale, given by the associated eigenvalue. 
 
 
